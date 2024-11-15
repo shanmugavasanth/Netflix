@@ -400,3 +400,19 @@ https://shanmugavasanth.github.io/Netflix/
 </body>
 </html>
 ```
+
+# Result
+
+![Screenshot 2024-11-15 193105](https://github.com/user-attachments/assets/b760e5e9-4741-4b59-a387-99c052c19b34)
+
+![Screenshot 2024-11-15 193124](https://github.com/user-attachments/assets/9a7fd095-88d7-4921-9385-29901dad2400)
+
+![Screenshot 2024-11-15 193143](https://github.com/user-attachments/assets/fe4985ea-7dd9-406e-885c-1443bdd793bb)
+
+![Screenshot 2024-11-15 193158](https://github.com/user-attachments/assets/5502a85b-1b7e-48f7-8e65-1775c7a39aca)
+
+![Screenshot 2024-11-15 193215](https://github.com/user-attachments/assets/1b24e07d-44ac-4304-85c1-25346c028a5f)
+
+![Screenshot 2024-11-15 193228](https://github.com/user-attachments/assets/358c5477-7d29-478f-ae27-a5a13439f94b)
+
+![Screenshot 2024-11-15 193242](https://github.com/user-attachments/assets/9a270195-df11-4210-a73e-c9c5b4750d0f)
